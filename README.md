@@ -1,9 +1,4 @@
- <!<!--
-**--
-**<!--
-**<!--
-**<!--
-**
+
 # Hi there! 👋
 
 I'm **Amelia**, and this is my GitHub profile. Thanks for stopping by! ✨
